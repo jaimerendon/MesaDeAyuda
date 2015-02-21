@@ -1,0 +1,36 @@
+PLANTEAMIENTO DEL PROBLEMA BASE
+
+Aca me definen de forma breve y concisa cual es la falencia y/o necesidad que va a "atender" la aplicación, de forma sencilla, sin redundancias, NO ES COPIAR Y PEGAR del documento de modelamiento.
+
+REQUERIMIENTOS FUNCIONALES
+
+Me enumeran TODOS los requirimientos que el sistema va a establecer en todos los niveles (a nivel usuario, administrador etc, todos los que apliquen), ej: identificaciones de usuario, las consultas, la gestion de inventarios
+
+REQUERIMIENTOS NO FUNCIONALES
+
+Me enumeran TODOS los requirimientos que aunque no son indispensables para el funcionamiento de la aplicacion , son necesarios para que sea una aplicación con calidad, Ej:Que la interfaz sea amigable con el usuario, que tenga una velocidad optima, etc.
+
+MODELO DE REQUERIMIENTOS
+
+Aca me establecen los diagramas de los paquetes, de los actores el sistema, cada DIAGRAMA DE CASOS DE USO por cada requerimiento funcional y diagrama general de casos de uso (sencillo, con actores y requerimientos)
+
+FLUJO DE EVENTOS DE CADA REQUERIMIENTO
+
+Las especificaciones de los procesos(el "paso a paso") "se muestra al usuario la pantalla de bienvendia, el usuario digita su usuario contraseña et etc......)
+Flujo bàsico, flujos alternativos (contraseña incorrecta, "olvido su contraseña?")
+Incluyan pantallazos basicos, minimo 1 por flujo.
+
+DIAGRAMA DE ACTIVIDADES de cada Requerimiento
+
+DIAGRAMA DE SECUENCIAS
+
+CUANTAS FORMAS NORMALES PARA LA BASE DE DATOS APLICO SI LAS APLICÓ.
+
+MANUAL DE USUARIO, dependiendo de la complejidad debe ser breve y conciso a prueba de clientes, oscila generalmente entre 6 a 52 paginas. Los datos adicionales van en los otros manuales
+
+MANUAL DE INSTALACION (Manual técnico, se necesita navegador version tal, sistema opertivo  tal, depende  del sistema de cada uno)
+
+MANUAL DE MANTENIMIENTO (Si aplica)
+
+Que framework utiliza si utiliza y que repositorios 
+
